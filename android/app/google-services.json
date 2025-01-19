@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "627028867776",
+    "firebase_url": "https://nyiram-app-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "nyiram-app",
+    "storage_bucket": "nyiram-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:627028867776:android:31f2a4b3e4fb67c2f3cb25",
+        "android_client_info": {
+          "package_name": "com.example.nyiram_tanaman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "627028867776-513jpldu4799dufq214t9slj2462jnmm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_2C2IJQodBoBy2py5QOchCjmv3tHiGEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "627028867776-513jpldu4799dufq214t9slj2462jnmm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
