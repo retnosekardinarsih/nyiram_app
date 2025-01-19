@@ -1,16 +1,3 @@
-# nyiram_tanaman
+# nyiram_app
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Nyiram App adalah sebuah aplikasi yang aku rancang ketika sedang melakukan penelitian Tugas Akhir Sarjana Fisika FMIPA USU. Aplikasi yang aku bangun dengan framework Flutter ini terintegrasi dengan hardware yang berfungsi sebagai penyiraman tanaman yang dapat bekerja secara otomatis, yang telah dilengkapi dengan sensor-sensor agar penyiraman dilakukan secara efektif. Dengan aplikasi Nyiram App, petani dapat mengecek parameter curah hujan, suhu udara, intensitas cahaya, dan kelembapan tanah serta mengontrol on/off dari pompa air dan sprinklers. 
